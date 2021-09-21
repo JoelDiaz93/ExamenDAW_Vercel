@@ -125,7 +125,7 @@ export default function Home() {
                                     Marcar consejo favorito
                                 </Button>
                                 <Button variant="contained" onClick={() => getAdvice()} startIcon={<SearchIcon/>}>
-                                    Siguinete consejo
+                                    Siguiente consejo
                                 </Button>
                             </CardActions>
                         </Card>
